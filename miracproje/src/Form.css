@@ -1,0 +1,9 @@
+header {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../Arayuz-Tasarimlari/eviye-1-MVP/MVP-OrderPizza.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
