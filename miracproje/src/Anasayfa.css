@@ -1,0 +1,48 @@
+.Button111{ 
+  background-color: #FDC913;
+  border-radius: 5px;
+  border-style: solid;
+  border-color:#FDC913;
+  font-size:20px;
+
+  }
+
+  .connn{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color:#CE2829;
+   
+  }
+  .connn5{
+    
+    background-image:url('../src/mvp-banner.png');
+    height: 45vw;
+  
+  }
+  .connn1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color:#CE2829;
+  }
+  .spannn{
+
+    color: white;
+    font-size: 35px;
+  }
+
+  .connn2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    background-color:#CE2829;
+   
+  
+  }
+
+
+    
+ 

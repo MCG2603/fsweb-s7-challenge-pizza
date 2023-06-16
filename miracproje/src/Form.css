@@ -1,9 +1,80 @@
-header {
+#pizza-form {
     width: 100%;
-    height: 100vh;
-    background-image: url('../Arayuz-Tasarimlari/eviye-1-MVP/MVP-OrderPizza.png');
+    background-color:#CE2829;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    color:white; 
+    align-self: center;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 78%;
+}
+nav{
     color: white;
+}
+.divmain{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width:40%;
+    margin:auto;
+}
+.div2{
+    display: flex;
+}
+.sss{
+    display: flex;
+}
+.sss1{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.sss3{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    height: 3vw;
+}
+.sss2{
+    display: flex;
+    justify-content: space-between;
+    width:80%;
+}
+.con{
+    width:70%
+}
+.con1{
+    display: flex;
+    justify-content: space-between;
+    width:30%
+}
+.con2{
+    display: flex;
+    justify-content: space-between;
+    width:90%
+}
+.con3{
+    width: 100%;
+    border-color: #cccccc;
+    border-style: solid;
+    border-width: thin;
+}
+.con4{
+    padding-top: 7%;
+    width: 85%;
+}
+.div3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width:100%;
 }
